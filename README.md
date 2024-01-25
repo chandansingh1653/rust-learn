@@ -1,2 +1,2 @@
 # rust-learn
-Contains code snipper for learning and playground for rust
+Contains code snippet for learning and playground for rust
